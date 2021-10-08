@@ -1,0 +1,10 @@
+.cache
+.vscode
+.cflags
+compile_commands.json
+*.o
+raw_converter
+raw_converter_test
+*.tif
+*.ari
+*.res
